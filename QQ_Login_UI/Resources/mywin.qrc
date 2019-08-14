@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/MyWin">
+        <file>arrowback.png</file>
+        <file>back.gif</file>
+        <file>checkbox.png</file>
+        <file>closeback.png</file>
+        <file>drop_down_Button.png</file>
+        <file>flicker.png</file>
+        <file>HeadImage.png</file>
+        <file>keyboard.png</file>
+        <file>minback.png</file>
+        <file>more_accountlogin.png</file>
+        <file>state_away.png</file>
+        <file>state_busy.png</file>
+        <file>state_hide.png</file>
+        <file>state_notdisturb.png</file>
+        <file>state_online.png</file>
+        <file>state_Qme.png</file>
+        <file>MyWin.css</file>
+        <file>Title.css</file>
+        <file>MyWin_zh_CN.qm</file>
+    </qresource>
+</RCC>
